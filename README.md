@@ -25,7 +25,6 @@ Choose a novice user to give a test on Heehjek application. Ask him to *make an 
 
 ## Transcript
 I'm doing a test for this application to my Father on February 23rd, 2019 in my home. The following text is a written conversation between me and my Dad while he try to use Heehjek application. The script will be written in Bahasa. Z is for Zahrah and A is for Ayah.
----
 ```
 I started this experiment by explaining the goal for this test.
 1.		Z : "Kan ini ada aplikasi yah, nama aplikasinya Heehjek yang itu loh yah (_my Dad already familiar with the name of this application, but he doesn't know how does it work_). Di aplikasi itu ada fitur layanan pemesanan untuk acara. Terserah ayah mau pilih acara untuk ulang tahun atau apalah yang ada disitu, atau untuk ulang tahun aja misalnya. Nanti ayah coba pesan disitu, kita lihat berapa lama ayah selesaikan tugasnya dan berikan tanggapan ayah, tapi jangan bener - bener dipesen yah. Yah pokoknya sampai completed lah" 

@@ -67,7 +67,7 @@ _Still waiting for the menu opened_
 33. 	Z : "Yang mana menurut ayah yang cocok?"
 34. 	A : "Ini cuma ini tok ya, enam ini"
 35. 	Z : "Iya.."
-36. 	A : "Karena yang ulang tahun beda tempat tinggal bisa jadi "_Ngirim Barang_""
+36. 	A : "Karena yang ulang tahun beda tempat tinggal bisa jadi "_Ngirim Barang_"
 37. 	Z : "Oh gitu.. "_Ngirim Barang_", ya ya terus terus"
 38. 	Z : "Jadi menurut ayah bisa "_Ngirim Barang_" sama yang menu "_Njajan_" itu?"
 39. 	A : "Iya, tapi "_Ngirim barang_" ini bukan berarti jajannya dikirim ini bukan. Maksudnya kan ini sendiri - sendiri gitu loh"
@@ -138,7 +138,7 @@ _He moved outside to gain more signal, then "Ngladeni Acara" feature is opened_
 97.		Z : "Nggak tau, terserah ayah"
 _He pressed "Acara Ulang Tahun" button_
 98.		Z : "Misal ayah mau coba pesen apa terserah ayah"
-99.		A : "Ini kira - kira aja yaa"
+99.		A : "Ini kira - kira aja yaa" (_Try to complete the form_)
 100. 	Z : "Mm hm"
 101.	A : "Yawes paket 2 ini"
 102.	Z : "Terus"
@@ -190,14 +190,29 @@ _This is the end of the script_
 ### Artifact Model
 ![Problem on Ngladeni Button](https://github.com/hci-a-if-its-2019/assignment-1-zahraayafni/blob/master/assets/1.jpg)
 ![Problem on Njajan and Belonjo Button](https://github.com/hci-a-if-its-2019/assignment-1-zahraayafni/blob/master/assets/2.jpg)
+![Problem on Recommendation Merchant](https://github.com/hci-a-if-its-2019/assignment-1-zahraayafni/blob/master/assets/5.jpg)
 ![Problem on Ngladeni Acara Transaction Form](https://github.com/hci-a-if-its-2019/assignment-1-zahraayafni/blob/master/assets/3.jpg)
 ![Problem on Service Packages](https://github.com/hci-a-if-its-2019/assignment-1-zahraayafni/blob/master/assets/4.jpg)
 
 ### Flow Model
-![Flow Model and Annotation](https://picsum.photos/400/300/?random)
+![Flow Model](https://github.com/hci-a-if-its-2019/assignment-1-zahraayafni/blob/master/assets/flowModel.png)
 
 ### Cultural Model
-![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
+![Social Model](https://github.com/hci-a-if-its-2019/assignment-1-zahraayafni/blob/master/assets/socialModel.jpg)
 
 ## Do's and Don't's
-Lorem ipsum dolor amet Lorem ipsum dolor amet Lorem ipsum dolor amet Lorem ipsum dolor amet
+There are several things that Heehjek must do based on this contextual analysis.
+
+## Do
+* Use a familiar word to represents a menu
+* Make an alert if the service is not yet available
+* Make images possible to click and zoomed in
+* Give more explanation on every provided service packages
+
+## Don't
+* Don't place a "recommendation merchant" button, give the application holder contact in other place
+* Don't make user tapped 3 times on the same button
+
+## References
+* Lecturer slides for 4th meeting
+* 4th Chapter on Hartson Rex. Pardha Pyla. 2012. Elsevier. "The UX Book: Process and Guidelines for Ensuring a Quality User Experience"

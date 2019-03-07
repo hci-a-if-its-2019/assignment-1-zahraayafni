@@ -7,7 +7,9 @@
 ---
 
 ## Device/ App/ Website Description
+
 ![heehjek Logo](https://github.com/hci-a-if-its-2019/assignment-1-zahraayafni/blob/master/assets/logo.jpg)
+
 Heehjek is an online mobile platform for ordering _ojek_, taxi, and other services in Nganjuk, a not so famous city in East Java. Heehjek works on android operating system. This app provide some features for its user. Those features are _Ngojek_, _Numpak Mobil_, _Ngirim Barang_, _Njajan_, _Belonjo_, and _Ngladeni_. Heehjek was built in Javanese Language. For those who rarely used Javanese may get some troubles while using this application. However, Heehjek bring a modernity exposure in Nganjuk. This application give so much help for its user in daily life.
 
 _Ngojek_ is provide a motorbike transportation service. _Numpak Mobil_ provide a service for car transportation. Heehjek also have a service for sending packets named _Ngirim Barang_. If the user wants to buy foods, they can use _Njajan_ feature. If they wants to buy stuffs, they can use _Belonjo_ service. This application has a service for rent stuff and other services as well in _Ngladeni_ feature.

@@ -219,3 +219,11 @@ There are several things that Heehjek must do based on this contextual analysis.
 ## References
 * Lecturer slides for 4th meeting
 * 4th Chapter on Hartson Rex. Pardha Pyla. 2012. Elsevier. "The UX Book: Process and Guidelines for Ensuring a Quality User Experience"
+
+# Remarks
+> * Thanks for having all the parts written completely. I believe you've work on this assignment wholeheartedly. Pretty well done!
+> * However, I may suggest, later if you write `Instruction Script` again, please write the instructions in list (bullets). It will ease readings.
+
+| Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
+|:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
+| 1            | 7                | 0               | 89,5               | 82,5       | 88,1  |
